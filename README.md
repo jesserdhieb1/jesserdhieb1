@@ -27,11 +27,12 @@
 
 
 <h2 align="left"> Github Stats 📊 : </h2>
-<p align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jesserdhieb1&" alt="jesserdhieb1" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jesserdhieb1&show_icons=true&locale=en" alt="jesserdhieb1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesserdhieb1&show_icons=true&locale=en" alt="jesserdhieb1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jesserdhieb1&" alt="jesserdhieb1" /></p>
 
 <h2 align="left"> achievements 🏆 : </h2>
-<p align="center"> &nbsp; <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesserdhieb1" alt="jesserdhieb1" /></a> </p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesserdhieb1" alt="jesserdhieb1" /></a> </p>
 
 <h2 align="left">Connect with me 🌎 :</h2>
 <p align="left">
