@@ -27,7 +27,7 @@
 
 
 <h2 align="left"> Github Stats 📊 : </h2>
-<p><img  width="30%" src="https://github-readme-stats.vercel.app/api?username=jesserdhieb1&show_icons=true&locale=en" alt="jesserdhieb1" />
+<p><img  width="50%" src="https://github-readme-stats.vercel.app/api?username=jesserdhieb1&show_icons=true&locale=en" alt="jesserdhieb1" />
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jesserdhieb1&" alt="jesserdhieb1" /></p>
 
 <h2 align="left"> achievements 🏆 : </h2>
