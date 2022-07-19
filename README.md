@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **my own project that soon will be available for the world**
+<!-- - 🔭 I’m currently working on **my own project that soon will be available for the world** -->
 
 - 🌱 I’m currently learning **React & Express.js**
 
