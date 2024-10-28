@@ -23,9 +23,7 @@
 
 - 💬 Ask me about **Spring Boot & Angular**
 
-- 📫 How to reach me **jesser.dhiebtn@gmail.com**
-
-- ⚡ Fun fact about me **I love white buffalo songs**
+- 📫 How to reach me **jasser.dhieb910@gmail.com**
 
 
 <h2 align="left">Languages and Tools 👨‍💻 :</h2>
